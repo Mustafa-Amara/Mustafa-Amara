@@ -14,7 +14,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 <p>
 <a href="https://www.facebook.com/share/1CQ3RdG394/"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/hussein-barish-358b3829a"><img
+<a href="https://www.linkedin.com/in/mustafa-amara-7965202b6"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/hussein_barish?igsh=MWZtMndoOGVmejRlMA=="><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
